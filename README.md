@@ -9,6 +9,7 @@
 
 ## 多种背景颜色选择
 若使用Simulator进行录制视频的时候，选择背景颜色就不需要担心了
+
 <img width="432" alt="截屏2025-02-12 23 34 19" src="https://github.com/user-attachments/assets/2384e478-4bf0-404a-9108-534c2dfd0dc2" />
 
 
