@@ -1,6 +1,6 @@
 # Mac Screen Recorder
 ### 简单上手的视频录制软件
-可以自己选择需要录制的窗口
+可以自己选择需要录制的窗口，使用窗口的声音（无其他杂音）
 
 <img width="256" alt="mac512" src="https://github.com/user-attachments/assets/f28513ad-933a-4e85-93f7-7d988430293a" />
 
